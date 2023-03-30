@@ -1,0 +1,45 @@
+2023/03/29 23:05:27 main.go:15: test
+2023/03/30 11:38:57 base.go:22: sql: unknown driver "sqlite3" (forgotten import?)
+2023/03/30 11:47:12 main.go:16: test
+2023/03/30 11:51:40 base.go:21: &{{{} {} 0} {webapp.sql 0x140001380e0} {{} {} 0} {0 0} [] map[] 0 0 0x140001020c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x104e309b0}
+2023/03/30 11:51:40 main.go:16: test
+2023/03/30 11:52:27 main.go:16: test
+2023/03/30 11:53:04 base.go:21: &{{{} {} 0} {webapp.sql 0x140000c00e0} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x100d1c990}
+2023/03/30 11:53:04 base.go:22: aaaaaaaaaaa
+2023/03/30 11:53:04 main.go:16: test
+2023/03/30 12:19:34 base.go:24: &{{{} {} 0} {webapp.sql 0x1400006a120} {{} {} 0} {0 0} [] map[] 0 0 0x1400007e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x102c059d0}
+2023/03/30 12:19:34 base.go:25: aaaaaaaaaaa
+2023/03/30 12:20:56 base.go:24: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x102ca19d0}
+2023/03/30 12:20:56 base.go:25: aaaaaaaaaaa
+2023/03/30 12:21:21 base.go:24: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x10059d980}
+2023/03/30 12:21:21 base.go:25: aaaaaaaaaaa
+2023/03/30 12:33:49 base.go:24: &{{{} {} 0} {webapp.sql 0x1400006a120} {{} {} 0} {0 0} [] map[] 0 0 0x1400007e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x1044d9700}
+2023/03/30 12:33:49 base.go:25: aaaaaaaaaaa
+2023/03/30 12:34:11 base.go:24: &{{{} {} 0} {webapp.sql 0x1400006a120} {{} {} 0} {0 0} [] map[] 0 0 0x1400007e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x102a6d770}
+2023/03/30 12:34:11 base.go:25: aaaaaaaaaaa
+2023/03/30 12:35:24 base.go:24: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x102509780}
+2023/03/30 12:35:24 base.go:25: aaaaaaaaaaa
+2023/03/30 12:56:17 base.go:24: &{{{} {} 0} {webapp.sql 0x14000072120} {{} {} 0} {0 0} [] map[] 0 0 0x140001000c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x1042c94d0}
+2023/03/30 12:56:17 base.go:25: aaaaaaaaaaa
+2023/03/30 13:03:34 base.go:24: &{{{} {} 0} {webapp.sql 0x1400006a120} {{} {} 0} {0 0} [] map[] 0 0 0x1400007e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x104c19330}
+2023/03/30 13:03:34 base.go:25: aaaaaaaaaaa
+2023/03/30 13:04:40 base.go:24: &{{{} {} 0} {webapp.sql 0x140000c6100} {{} {} 0} {0 0} [] map[] 0 0 0x140000980c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x10255d2b0}
+2023/03/30 13:04:40 base.go:25: aaaaaaaaaaa
+2023/03/30 13:06:46 base.go:24: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x1048e52d0}
+2023/03/30 13:06:46 base.go:25: aaaaaaaaaaa
+2023/03/30 13:19:33 base.go:25: &{{{} {} 0} {webapp.sql 0x14000072120} {{} {} 0} {0 0} [] map[] 0 0 0x140001000c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x1030691d0}
+2023/03/30 13:19:33 base.go:26: aaaaaaaaaaa
+2023/03/30 13:27:01 base.go:25: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x105075110}
+2023/03/30 13:27:01 base.go:26: aaaaaaaaaaa
+2023/03/30 13:40:51 base.go:25: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x102580c40}
+2023/03/30 13:40:51 base.go:26: aaaaaaaaaaa
+2023/03/30 13:49:25 base.go:25: &{{{} {} 0} {webapp.sql 0x14000072120} {{} {} 0} {0 0} [] map[] 0 0 0x140001000c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x1041f0870}
+2023/03/30 13:49:25 base.go:26: aaaaaaaaaaa
+2023/03/30 13:50:09 base.go:25: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x102dc8870}
+2023/03/30 13:50:09 base.go:26: aaaaaaaaaaa
+2023/03/30 13:51:18 base.go:25: &{{{} {} 0} {webapp.sql 0x14000072120} {{} {} 0} {0 0} [] map[] 0 0 0x140001000c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x102c48870}
+2023/03/30 13:51:18 base.go:26: aaaaaaaaaaa
+2023/03/30 13:52:24 base.go:25: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x1009f0be0}
+2023/03/30 13:52:24 base.go:26: aaaaaaaaaaa
+2023/03/30 14:27:54 base.go:25: &{{{} {} 0} {webapp.sql 0x14000072120} {{} {} 0} {0 0} [] map[] 0 0 0x140001000c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x1010acb60}
+2023/03/30 14:30:47 base.go:25: &{{{} {} 0} {webapp.sql 0x140000c2100} {{} {} 0} {0 0} [] map[] 0 0 0x1400008e0c0 false map[] map[] 0 0 0 0 <nil> 0 0 0 0 0x104a88a20}
